@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "celui:tungsten_nugget"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],
+  "result":
+  {
+    "item": "celui:tungsten_wire",
+    "count": 1
+  }
+}

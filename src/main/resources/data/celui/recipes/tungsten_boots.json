@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x x",
+    "x x",
+    "   "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "celui:tungsten_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "celui:tungsten_boots",
+    "count": 1
+  }
+}
