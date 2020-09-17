@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xrg",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "celui:tungsten_ingot"
+    },
+    "r":
+    {
+      "item": "minecraft:redstone"
+    },
+    "g":
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "celui:robot_casing",
+    "count": 1
+  }
+}

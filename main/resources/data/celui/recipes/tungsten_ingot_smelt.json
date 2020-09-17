@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "celui:tungsten_ore"
+  },
+  "result": "celui:tungsten_ingot",
+  "experience": 10.0,
+  "cookingtime": 200
+}

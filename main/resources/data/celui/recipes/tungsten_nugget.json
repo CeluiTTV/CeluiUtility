@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "celui:tungsten_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "celui:tungsten_nugget",
+    "count": 9
+  }
+}
