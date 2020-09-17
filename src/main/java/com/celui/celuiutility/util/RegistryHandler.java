@@ -54,11 +54,8 @@ public class RegistryHandler {
     public static final RegistryObject<HoeItem> TUNGSTEN_HOE = ITEMS.register("tungsten_hoe", () ->
             new HoeItem(ModItemTier.TUNGSTEN, -3, -1.0F, new Item.Properties().group(Celui.TAB)));
 
-    //public static final RegistryObject<BowItem> TUNGSTEN_BOW = ITEMS.register("tungsten_bow", () ->
-    //        new BowItem(new Item.Properties().group(Celui.TAB)));
-
-    //public static final RegistryObject<ArrowEntity> TUNGSTEN_ARROW = ITEMS.register("tungsten_arrow", () ->
-    //        new ArrowEntity(, new Item.Properties().group(Celui.TAB)));
+    public static final RegistryObject<BowItem> TUNGSTEN_BOW = ITEMS.register("tungsten_bow", () ->
+            new BowItem(new Item.Properties().group(Celui.TAB)));
 
     // Armor Only
     public static final RegistryObject<ArmorItem> TUNGSTEN_HELMET = ITEMS.register("tungsten_helmet", () ->

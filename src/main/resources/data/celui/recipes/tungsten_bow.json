@@ -2,20 +2,24 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "x x",
-    "x x",
-    "   "
+    " xw",
+    "x w",
+    " xw"
   ],
   "key":
   {
     "x":
     {
       "item": "celui:tungsten_ingot"
+    },
+    "w":
+    {
+      "item": "celui:tungsten_wire"
     }
   },
   "result":
   {
-    "item": "celui:tungsten_boots",
+    "item": "celui:tungsten_bow",
     "count": 1
   }
 }
