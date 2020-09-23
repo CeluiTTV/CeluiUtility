@@ -10,8 +10,7 @@ public enum ModItemTier implements IItemTier {
 
 
     TUNGSTEN(4, 859, 11.0F, 5.0F, 12, () -> {
-        return Ingredient.fromItems(RegistryHandler.TUNGSTEN_INGOT.get());
-    });
+        return Ingredient.fromItems(RegistryHandler.TUNGSTEN_INGOT.get());});
 
     private final int harvestLevel;
     private final int maxUses;

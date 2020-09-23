@@ -9,7 +9,7 @@ public class RobotCasing extends Block {
 
     public RobotCasing() {
         super(Block.Properties.create(Material.IRON)
-                .hardnessAndResistance(40.0f, 4500.0f)
+                .hardnessAndResistance(40.0f, 1500.0f)
                 .sound(SoundType.METAL)
                 .harvestLevel(2) // What is needed to mine it 0 = wood 1 = stone/gold 2 = iron and 3 = diamond
                 .harvestTool(ToolType.PICKAXE)

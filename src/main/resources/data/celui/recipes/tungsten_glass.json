@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ggg",
+    "gxg",
+    "ggg"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "celui:tungsten_ingot"
+    },
+    "g":
+    {
+      "item": "minecraft:glass"
+    }
+  },
+  "result":
+  {
+    "item": "celui:tungsten_glass",
+    "count": 8
+  }
+}

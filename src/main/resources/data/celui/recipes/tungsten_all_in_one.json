@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "asp",
+    "hw ",
+    "   "
+  ],
+  "key":
+  {
+    "p":
+    {
+      "item": "celui:tungsten_pickaxe"
+    },
+    "s":
+    {
+      "item": "celui:tungsten_shovel"
+    },
+    "a":
+    {
+      "item": "celui:tungsten_axe"
+    },
+    "h":
+    {
+      "item": "celui:tungsten_hoe"
+    },
+    "w":
+    {
+      "item": "celui:tungsten_sword"
+    }
+  },
+  "result":
+  {
+    "item": "celui:tungsten_all_in_one",
+    "count": 1
+  }
+}
